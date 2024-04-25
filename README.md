@@ -1,1 +1,1 @@
-Hello this is an Oracle Challenge, the function of this application radical on a while loop and that show to the user the possibility to convert (thanks to the apiService) from WHATEVER fiat currencies :D
+This Java application provides a user-friendly interface for real-time currency conversions. It leverages an external API to fetch up-to-date exchange rates, ensuring accurate results. The core functionality is powered by a while loop, allowing users to perform multiple conversions within a single session.
