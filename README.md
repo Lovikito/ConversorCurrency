@@ -1,0 +1,1 @@
+Hello this is an Oracle Challenge, the function of this application radical on a while loop and that show to the user the possibility to convert (thanks to the apiService) from WHATEVER fiat currencies :D
